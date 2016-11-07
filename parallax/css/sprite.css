@@ -1,0 +1,24 @@
+.spr-sprite, .burger, .money, .social, .appstore, .google {
+  background-image: url('../images/spr-s7eaf0b9e08.png');
+  background-repeat: no-repeat;
+}
+
+.burger {
+  background-position: 0 -39px;
+}
+
+.money {
+  background-position: 0 -964px;
+}
+
+.social {
+  background-position: 0 -1071px;
+}
+
+.appstore {
+  background-position: 0 0;
+}
+
+.google {
+  background-position: 0 -146px;
+}

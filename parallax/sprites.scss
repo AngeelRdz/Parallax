@@ -1,0 +1,18 @@
+@import "spr/*.png";   
+
+
+.burger { 
+	@include spr-sprite(burger);    
+}
+.money { 
+	@include spr-sprite(money);    
+}
+.social { 
+	@include spr-sprite(social);    
+}
+.appstore{ 
+	@include spr-sprite(appstore);    
+}
+.google{ 
+	@include spr-sprite(google);    
+}
